@@ -14,7 +14,7 @@ pip install -U spacy
 
 [Install spaCy](https://spacy.io/usage)
 
-python package及版本说明: 可见 requirements_nl2sql_220811.txt
+python package及版本说明: 可见 [requirements_nl2sql_220811.txt](https://github.com/mediaProduct2017/learn-conda/blob/master/requirements_nl2sql_220811.txt)
 
 terminal命令的说明：
 
